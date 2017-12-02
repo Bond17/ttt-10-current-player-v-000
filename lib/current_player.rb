@@ -7,6 +7,7 @@ while cell !=8
   end
   cell+=1
 end
+turn
 end
 
 def current_player (board)
