@@ -1,7 +1,7 @@
 def turn_count (board)
 cell = 0
 turn=1
-while cell !=8
+while cell !=9
   if board[cell]== "X" || board[cell]== "O"
     turn +=1
   end
